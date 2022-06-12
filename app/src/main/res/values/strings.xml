@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cafe86Menu</string>
+    <string name="todo">TODO</string>
+    <string name="bbqandchips">BBQandChips</string>
+    <string name="new_user_signup">Create a account? <b>SignUp</b></string>
+    <string name="cafe_86_login">Cafe 86 Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+</resources>

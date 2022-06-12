@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "520482040893",
+    "project_id": "fir-login-signup-8b117",
+    "storage_bucket": "fir-login-signup-8b117.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520482040893:android:298f406e057f6515e44e54",
+        "android_client_info": {
+          "package_name": "com.example.cafe86"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520482040893-5u6kvkegddv30lfcs1vlm9b628en1ce2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cafe86",
+            "certificate_hash": "165df2c0d981e504b46a624cc0e3d4c90e347629"
+          }
+        },
+        {
+          "client_id": "520482040893-a6t45ih3m0snhmuq0lmmm61iaomq42jv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4V_ym2Se_LGtwslqg9LG7ug5RcEPRklo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520482040893-a6t45ih3m0snhmuq0lmmm61iaomq42jv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520482040893:android:004cd0364950ed3ce44e54",
+        "android_client_info": {
+          "package_name": "com.example.cafe86menu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520482040893-a6t45ih3m0snhmuq0lmmm61iaomq42jv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4V_ym2Se_LGtwslqg9LG7ug5RcEPRklo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520482040893-a6t45ih3m0snhmuq0lmmm61iaomq42jv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
