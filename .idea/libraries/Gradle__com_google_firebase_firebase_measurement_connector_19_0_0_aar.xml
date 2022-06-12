@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-measurement-connector:19.0.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../gradle-7.4.2/caches/transforms-3/f64a2664a113fd0daab3434910e4ede4/transformed/firebase-measurement-connector-19.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../gradle-7.4.2/caches/transforms-3/8b1add83511eaa896996436947880cc8/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../gradle-7.4.2/caches/transforms-3/8b1add83511eaa896996436947880cc8/transformed/firebase-measurement-connector-19.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../gradle-7.4.2/caches/transforms-3/8b1add83511eaa896996436947880cc8/transformed/firebase-measurement-connector-19.0.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../gradle-7.4.2/caches/modules-2/files-2.1/com.google.firebase/firebase-measurement-connector/19.0.0/c0d58b8efa926b2c607984c54fb3d274490badd1/firebase-measurement-connector-19.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
